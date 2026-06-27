@@ -1,0 +1,10 @@
+transformers>=4.40.0
+peft
+trl>=0.12.0
+bitsandbytes
+accelerate
+datasets
+pandas
+numpy
+openpyxl
+torch
